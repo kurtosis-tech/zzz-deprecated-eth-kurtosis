@@ -14,3 +14,4 @@ An index of packages and examples for getting started with private Ethereum test
 | Package | URL | Import Statement |
 | --- | --- | --- |
 | Geth + Lighthouse | [Github](https://github.com/kurtosis-tech/eth-network-package/blob/main/src/el/geth/geth_launcher.star) | `import_module(https://github.com/kurtosis-tech/eth-network-package/src/el/geth/geth_launcher.star)` |
+| Geth + Lighthouse + MEV Infra | TBD | TBD |
