@@ -5,15 +5,15 @@ An index of packages and examples for getting started with private Ethereum test
 
 | Component | Type | URL | Import Statement |
 | --- | --- | --- | --- |
-| Geth | EL client | [Github](https://github.com/kurtosis-tech/eth-network-package/blob/main/src/el/geth/geth_launcher.star) | `import_module(https://github.com/kurtosis-tech/eth-network-package/src/el/geth/geth_launcher.star)` |
-| Lighthouse | CL client | [Github](https://github.com/kurtosis-tech/eth-network-package/blob/main/src/cl/lighthouse/lighthouse_launcher.star) | `import_module(https://github.com/kurtosis-tech/eth-network-package/src/cl/lighthouse/lighthouse_launcher.star)` |
+| Geth | EL client | [Github](https://github.com/kurtosis-tech/geth-package) | `import_module("github.com/kurtosis-tech/geth-package/lib/geth.star")` |
+| Lighthouse | CL client | [Github](https://github.com/kurtosis-tech/lighthouse-package) | `import_module("github.com/kurtosis-tech/lighthouse-package/lib/lighthouse.star")` |
 | MEV Boost | MEV Infra | TBD | TBD |
 
 ### Compose Testnet Package Examples
 
 | Package | URL | Import Statement |
 | --- | --- | --- |
-| Geth + Lighthouse | [Github](https://github.com/kurtosis-tech/eth-network-package/blob/main/src/el/geth/geth_launcher.star) | `import_module(https://github.com/kurtosis-tech/eth-network-package/src/el/geth/geth_launcher.star)` |
+| Geth + Lighthouse | [Github](https://github.com/kurtosis-tech/geth-lighthouse-package) | `import_module(github.com/kurtosis-tech/geth-lighthouse-package)` |
 | Geth + Lighthouse + MEV Infra | TBD | TBD |
 
 ### Roadmap
