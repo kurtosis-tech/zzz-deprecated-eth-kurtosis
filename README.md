@@ -9,7 +9,7 @@ An index of packages and examples for getting started with private Ethereum test
 | Lighthouse | CL client | [Github](https://github.com/kurtosis-tech/lighthouse-package) | `import_module("github.com/kurtosis-tech/lighthouse-package/lib/lighthouse.star")` |
 | MEV Boost | MEV Infra | TBD | TBD |
 
-### Compose Testnet Package Examples
+### Composed Testnet Package Examples
 
 | Package | URL | Import Statement |
 | --- | --- | --- |
