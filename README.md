@@ -1,4 +1,5 @@
-# eth-testnet-index
+# eth-kurtosis
+
 An index of packages and examples for getting started with private Ethereum testnets using Kurtosis.
 
 ### Available Testnet Components
