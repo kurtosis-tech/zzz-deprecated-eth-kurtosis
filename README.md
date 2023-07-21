@@ -14,7 +14,7 @@ An index of packages and examples for getting started with private Ethereum test
 | Package | URL | Import Statement |
 | --- | --- | --- |
 | Geth + Lighthouse | [Github](https://github.com/kurtosis-tech/geth-lighthouse-package) | `import_module("github.com/kurtosis-tech/geth-lighthouse-package/main.star")` |
-| Geth + Lighthouse + MEV Infra | TBD | Github](https://github.com/kurtosis-tech/geth-mev-lighthouse-package) |  `import_module("github.com/kurtosis-tech/geth-lighthouse-mev-package/main.star")`
+| Geth + Lighthouse + MEV Infra | [Github](https://github.com/kurtosis-tech/geth-mev-lighthouse-package) |  `import_module("github.com/kurtosis-tech/geth-lighthouse-mev-package/main.star")`
 
 ### Roadmap
 
