@@ -7,6 +7,7 @@ An index of packages and examples for getting started with private Ethereum test
 | Component | Type | URL | Import Statement |
 | --- | --- | --- | --- |
 | Geth | EL client | [Github](https://github.com/kurtosis-tech/geth-package) | `import_module("github.com/kurtosis-tech/geth-package/lib/geth.star")` |
+| Reth | EL client | [Github](https://github.com/kurtosis-tech/reth-package) | `import_module("github.com/kurtosis-tech/reth-package/lib/reth.star")` |
 | Lighthouse | CL client | [Github](https://github.com/kurtosis-tech/lighthouse-package) | `import_module("github.com/kurtosis-tech/lighthouse-package/lib/lighthouse.star")` |
 | MEV Package | MEV Infra | [GitHub](https://github.com/kurtosis-tech/mev-package) | `import_module("github.com/kurtosis-tech/mev-package/lib/mev_launcher.star")` |
 
@@ -15,6 +16,7 @@ An index of packages and examples for getting started with private Ethereum test
 | Package | URL | Import Statement |
 | --- | --- | --- |
 | Geth + Lighthouse | [Github](https://github.com/kurtosis-tech/geth-lighthouse-package) | `import_module("github.com/kurtosis-tech/geth-lighthouse-package/main.star")` |
+| Reth + Lighthouse | [Github](https://github.com/kurtosis-tech/reth-lighthouse-package) | `import_module("github.com/kurtosis-tech/reth-lighthouse-package/main.star")` |
 | Geth + Lighthouse + MEV Infra | [Github](https://github.com/kurtosis-tech/geth-mev-lighthouse-package) |  `import_module("github.com/kurtosis-tech/geth-lighthouse-mev-package/main.star")`
 
 ### Roadmap
