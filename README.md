@@ -33,3 +33,4 @@ An index of packages and examples for getting started with private Ethereum test
 - [ ] Add README for quick start + install instructions to Kurtosis
 - [ ] Fill out components marked "TBD"
 - [ ] Fill out full MEV infra (rather than mock-mev)
+- [ ] Find and include components for open-source explorers (beacon chain and execution layer)
