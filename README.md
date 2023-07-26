@@ -10,6 +10,12 @@ An index of packages and examples for getting started with private Ethereum test
 | Reth | EL client | [Github](https://github.com/kurtosis-tech/reth-package) | `import_module("github.com/kurtosis-tech/reth-package/lib/reth.star")` |
 | Lighthouse | CL client | [Github](https://github.com/kurtosis-tech/lighthouse-package) | `import_module("github.com/kurtosis-tech/lighthouse-package/lib/lighthouse.star")` |
 | MEV Package | MEV Infra | [GitHub](https://github.com/kurtosis-tech/mev-package) | `import_module("github.com/kurtosis-tech/mev-package/lib/mev_launcher.star")` |
+| Nethermind | EL client | TBD | `TBD` |
+| Erigon | EL client | TBD | `TBD` |
+| Besu | EL client | TBD | `TBD` |
+| Prysm | CL client | TBD | `TBD` |
+| Teku | CL client | TBD | `TBD` |
+| Nimbus | CL client | TBD | `TBD` |
 
 ### Composed Testnet Package Examples
 
