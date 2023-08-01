@@ -30,6 +30,7 @@ An index of packages and examples for getting started with private Ethereum test
 ### Roadmap
 
 - [ ] Turn tables into pretty-formatted blocks so people can click-to-copy import statements
+- [ ] Parameterize all composed testnet package examples
 - [ ] Add README for quick start + install instructions to Kurtosis
 - [ ] Fill out components marked "TBD"
 - [ ] Fill out full MEV infra (rather than mock-mev)
