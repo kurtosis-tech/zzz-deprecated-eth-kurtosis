@@ -4,10 +4,8 @@ An index of packages and examples for getting started with building full-feature
 
 ### Why private testnets?
 Private testnets are critical for developers working on the protocol, as well as smart contract developers who want to run their own chain using their own initial state for more complex applications. 
-
-For protocol developers, private testnets provide for an isolated life-like environment where they can safely prototype and validate network-level changes before mainnet forks, like the Merge, Shapella, and Dencun ([EIP-4844](https://www.eip4844.com/)). Private testnets have the added benefit of enabling the testing of behaviors against multiple client implementations as part of the effort to improve Ethereum's resilience via [client diversity](https://clientdiversity.org/).   
-
-For dApp developers, private testnets offer a foundation for validating the functionality of their applications that involve multiple chains (e.g. bridges, L2s, IBC protocols, etc)  or middle ware infrastructure (e.g. oracles, relayers, DVT nodes, etc).   
+* For protocol developers, private testnets provide for an isolated life-like environment where they can safely prototype and validate network-level changes before mainnet forks, like the Merge, Shapella, and Dencun ([EIP-4844](https://www.eip4844.com/)). Private testnets have the added benefit of enabling the testing of behaviors against multiple client implementations as part of the effort to improve Ethereum's resilience via [client diversity](https://clientdiversity.org/). 
+* For dApp developers, private testnets offer a foundation for validating the functionality of their applications that involve multiple chains (e.g. bridges, L2s, IBC protocols, etc)  or middle ware infrastructure (e.g. oracles, relayers, DVT nodes, etc).   
 
 ### Why use Kurtosis?
 [Kurtosis](https://www.kurtosis.com/) is an open-source tool for defining and building private testnets. Testnet definitions built using Kurtosis are:
@@ -16,7 +14,9 @@ For dApp developers, private testnets offer a foundation for validating the func
 * Portable - works on both Docker and Kubernetes
 * Scalable - testnet size can be any size you desire - only limited by underlying hardware
 * Easy to write - the DSL used is called Starlark, a dialect of Python. Say goodbye to `yaml`.
-* [Alpha & optional] Fully managed - write your environment definition once & deploy it to the cloud with a single click.
+* [Alpha & optional] Fully managed - write your environment definition once & deploy it to the cloud with a single click. Sign up for early access [here](https://mp2k8nqxxgj.typeform.com/to/U1HcXT1H?typeform-source=github.com).
+
+To see an example of a full-featured, Ethereum private testnet definition currently in use by the Ethereum Foundation, check out the [`eth-network-package`](https://github.com/kurtosis-tech/eth-network-package).
 
 ### Available Testnet Components
 
