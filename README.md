@@ -52,3 +52,6 @@ To see an example of a full-featured, Ethereum private testnet definition curren
 - [ ] Fill out full MEV infra (rather than mock-mev)
 - [ ] Find and include components for open-source explorers (beacon chain and execution layer)
 - [ ] Find and include high-value middleware infrastructure to include (oracles, relayers, DVT nodes)
+- [ ] Add the web3-tools packages & examples for contract deployment to the private testnets
+- [ ] Add "shadow forking" as a native package for use in private testnets for forking mainnet data
+- [ ] Add middleware infrastructure packages like Hyperlane relayers, oracles, L2 nodes, SSV nodes, etc
