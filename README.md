@@ -27,7 +27,7 @@ To see an example of a full-featured, Ethereum private testnet definition curren
 | Lighthouse | CL client | [Github](https://github.com/kurtosis-tech/lighthouse-package) | `import_module("github.com/kurtosis-tech/lighthouse-package/lib/lighthouse.star")` |
 | Mock-MEV | MEV Infra | [GitHub](https://github.com/kurtosis-tech/mev-package) | `import_module("github.com/kurtosis-tech/mev-package/lib/mev_launcher.star")` |
 | Full MEV | MEV Infra | TBD | `TBD` |
-| Nethermind | EL client | TBD | `TBD` |
+| Nethermind | EL client | [GitHub](https://github.com/kurtosis-tech/nethermind-package) | `import_module("https://github.com/kurtosis-tech/nethermind-package/lib/nethermind.star")` |
 | Erigon | EL client | TBD | `TBD` |
 | Besu | EL client | TBD | `TBD` |
 | Prysm | CL client | TBD | `TBD` |
