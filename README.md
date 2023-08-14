@@ -27,9 +27,9 @@ To see an example of a full-featured, Ethereum private testnet definition curren
 | Lighthouse | CL client | [Github](https://github.com/kurtosis-tech/lighthouse-package) | `import_module("github.com/kurtosis-tech/lighthouse-package/lib/lighthouse.star")` |
 | Mock-MEV | MEV Infra | [GitHub](https://github.com/kurtosis-tech/mev-package) | `import_module("github.com/kurtosis-tech/mev-package/lib/mev_launcher.star")` |
 | Full MEV | MEV Infra | TBD | `TBD` |
-| Nethermind | EL client | [GitHub](https://github.com/kurtosis-tech/nethermind-package) | `import_module("https://github.com/kurtosis-tech/nethermind-package/lib/nethermind.star")` |
-| Erigon | EL client | [Github](https://github.com/kurtosis-tech/erigon-package) | `import_module("https://github.com/kurtosis-tech/erigon-package/lib/erigon.star")` |
-| Besu | EL client | TBD | `TBD` |
+| Nethermind | EL client | [GitHub](https://github.com/kurtosis-tech/nethermind-package) | `import_module("github.com/kurtosis-tech/nethermind-package/lib/nethermind.star")` |
+| Erigon | EL client | [Github](https://github.com/kurtosis-tech/erigon-package) | `import_module("github.com/kurtosis-tech/erigon-package/lib/erigon.star")` |
+| Besu | EL client | [Github](https://github.com/kurtosis-tech/besu-package) | `import_module("github.com/kurtosis-tech/besu-package/lib/besu.star)` |
 | Prysm | CL client | TBD | `TBD` |
 | Teku | CL client | TBD | `TBD` |
 | Nimbus | CL client | TBD | `TBD` |
