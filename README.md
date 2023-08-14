@@ -29,7 +29,7 @@ To see an example of a full-featured, Ethereum private testnet definition curren
 | Full MEV | MEV Infra | TBD | `TBD` |
 | Nethermind | EL client | [GitHub](https://github.com/kurtosis-tech/nethermind-package) | `import_module("github.com/kurtosis-tech/nethermind-package/lib/nethermind.star")` |
 | Erigon | EL client | [Github](https://github.com/kurtosis-tech/erigon-package) | `import_module("github.com/kurtosis-tech/erigon-package/lib/erigon.star")` |
-| Besu | EL client | [Github](https://github.com/kurtosis-tech/besu-package) | `import_module("github.com/kurtosis-tech/besu-package/lib/besu.star)` |
+| Besu | EL client | [Github](https://github.com/kurtosis-tech/besu-package) | `import_module("github.com/kurtosis-tech/besu-package/lib/besu.star")` |
 | Prysm | CL client | TBD | `TBD` |
 | Teku | CL client | TBD | `TBD` |
 | Nimbus | CL client | TBD | `TBD` |
