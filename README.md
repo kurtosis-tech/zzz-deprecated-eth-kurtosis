@@ -41,7 +41,7 @@ To see an example of a full-featured, Ethereum private testnet definition curren
 | Geth + Lighthouse | [Github](https://github.com/kurtosis-tech/geth-lighthouse-package) | `import_module("github.com/kurtosis-tech/geth-lighthouse-package/main.star")` |
 | Reth + Lighthouse | [Github](https://github.com/kurtosis-tech/reth-lighthouse-package) | `import_module("github.com/kurtosis-tech/reth-lighthouse-package/main.star")` |
 | Geth + Lighthouse + Mock-MEV Infra | [Github](https://github.com/kurtosis-tech/geth-lighthouse-mev-package) |  `import_module("github.com/kurtosis-tech/geth-lighthouse-mev-package/main.star")` |
-| 2 EL clients + 2 CL clients + MEV Infra | TBD |  `TBD` |
+| 2 EL clients + 2 CL clients + MEV Infra | [GitHub](https://github.com/kurtosis-tech/2-el-cl-mev-package) |  `import_module("github.com/kurtosis-tech/2-el-cl-mev-package")` |
 
 ### Roadmap
 
